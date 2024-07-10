@@ -1,4 +1,4 @@
-// hovered class to selct list
+// hovered class to select list
 let list = document.querySelectorAll(".navigation li");
 
 function activeLink(){
